@@ -1,0 +1,9 @@
+C:\Users\Hoang Dung\Source\Repos\TH-LTM-Buoi6\TH-Buoi7\BT2_buoi7\bin\Debug\BT2_buoi7.exe.config
+C:\Users\Hoang Dung\Source\Repos\TH-LTM-Buoi6\TH-Buoi7\BT2_buoi7\bin\Debug\BT2_buoi7.exe
+C:\Users\Hoang Dung\Source\Repos\TH-LTM-Buoi6\TH-Buoi7\BT2_buoi7\bin\Debug\BT2_buoi7.pdb
+C:\Users\Hoang Dung\Source\Repos\TH-LTM-Buoi6\TH-Buoi7\BT2_buoi7\obj\Debug\BT2_buoi7.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Dung\Source\Repos\TH-LTM-Buoi6\TH-Buoi7\BT2_buoi7\obj\Debug\BT2_buoi7.exe
+C:\Users\Hoang Dung\Source\Repos\TH-LTM-Buoi6\TH-Buoi7\BT2_buoi7\obj\Debug\BT2_buoi7.pdb
+C:\Users\Hoang Dung\Source\Repos\TH-LTM-Buoi7\TH-Buoi7\BT2_buoi7\bin\Debug\BT2_buoi7.exe.config
+C:\Users\Hoang Dung\Source\Repos\TH-LTM-Buoi7\TH-Buoi7\BT2_buoi7\obj\Debug\BT2_buoi7.exe
+C:\Users\Hoang Dung\Source\Repos\TH-LTM-Buoi7\TH-Buoi7\BT2_buoi7\obj\Debug\BT2_buoi7.pdb
